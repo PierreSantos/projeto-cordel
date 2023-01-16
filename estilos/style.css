@@ -48,7 +48,7 @@ main{
 }
 
 main p{
-    font: normal normal 3.5vw var(--fonte-cordel);
+    font: normal normal 3.9vw var(--fonte-cordel);
 }
 
 
@@ -57,7 +57,7 @@ div.imagemdefundo{
     background-size: cover;
     padding-top: 5vw;
     padding-bottom: 5vw;
-    box-shadow: inset 8px 8px 13px 0px rgba(0, 0, 0, 0.171);
+    box-shadow: inset 8px 8px 13px 0px #0000002c;
 }
 
 div.imagemdefundo p{
@@ -82,7 +82,7 @@ footer{
 }
 
 footer p{
-    font: normal lighter 1.2em var(--fonte-padrao);
+    font: normal lighter 1em var(--fonte-padrao);
     color: white; 
     text-align: center;
 }
